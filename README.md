@@ -3,6 +3,7 @@ Valenzuela Heredia Ian Fernando
 20490739
 
 Una calculadora web simple implementada con HTML, CSS y JavaScript que permite realizar operaciones básicas de suma, resta, multiplicación y división.
+
 Características
 
 Interfaz moderna y elegante
